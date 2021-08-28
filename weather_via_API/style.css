@@ -1,0 +1,18 @@
+html, body {
+    font-family: serif;
+    margin: 20px;
+}
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto; 
+} 
+.col-sm {
+    border: 3px solid bisque;
+    border-radius: 6px;
+    width: 200px;
+    height: 250px;
+    margin: 0 auto;
+    background-color: burlywood;
+    font-family: Helvetica, sans-serif;
+}
